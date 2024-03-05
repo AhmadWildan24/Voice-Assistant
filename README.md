@@ -1,8 +1,8 @@
-# This project explores Create Your Own Chatbot Website with Open Source LLMs.
+# This project explores Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson.
 
 ## Author : @AhmadWildan24
 
-### Mentee assigment from IBM Advance AI @Infinite Learning Course Completion of Create Your Own Chatbot Website with Open Source LLMs from CognitiveClass.ai
+### Mentee assigment from IBM Advance AI @Infinite Learning Course Completion of Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson from CognitiveClass.ai
 
 ### Mentee Ingfo
 Name    : Ahmad Wildan Afifi Nasution
